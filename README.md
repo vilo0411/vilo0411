@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **vilo0411/vilo0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
